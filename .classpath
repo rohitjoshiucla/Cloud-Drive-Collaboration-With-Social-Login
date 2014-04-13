@@ -13,15 +13,5 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/Downloads/dropbox-java-sdk-1.7.6/dropbox-java-sdk-1.7.6/lib/dropbox-core-sdk-1.7.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/Downloads/dropbox-java-sdk-1.7.6/dropbox-java-sdk-1.7.6/lib/jackson-core-2.2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/workspace/SB/PersonalityAnalysis2/httpclient-4.0-beta1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/workspace/SB/PersonalityAnalysis2/httpcore-4.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/workspace/SB/PersonalityAnalysis2/json-lib-2.4-jdk15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/workspace/SB/PersonalityAnalysis2/commons-beanutils-1.8.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/workspace/SB/PersonalityAnalysis2/commons-codec-1.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/workspace/SB/PersonalityAnalysis2/commons-collections-3.2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/workspace/SB/PersonalityAnalysis2/commons-lang-2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Rohit/workspace/SB/PersonalityAnalysis2/commons-lang3-3.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

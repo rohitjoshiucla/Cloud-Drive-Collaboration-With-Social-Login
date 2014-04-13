@@ -2,7 +2,6 @@ package com.testModules.classes;
 
 import java.net.URI;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 
@@ -53,7 +52,6 @@ public class BXclass {
 		response.sendRedirect(query);
 	}
 	
-	@SuppressWarnings("unchecked")
 	public JSONArray getMETADATA(String path, HttpSession session) throws Exception{
 		List<NameValuePair> params = new ArrayList<NameValuePair>(1);
 	    params.add(new BasicNameValuePair("access_token", session.getAttribute(BXbean.NAME_TOKEN).toString()));
